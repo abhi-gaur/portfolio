@@ -1,5 +1,5 @@
 import React from 'react'
-import arrayDestruct from "../../assets/portfolio/arrayDestruct.jpg"
+import abode from "../../assets/portfolio/abode.jpg"
 import installNode from "../../assets/portfolio/installNode.jpg"
 import navbar from "../../assets/portfolio/navbar.jpg"
 import reactParallax from "../../assets/portfolio/reactParallax.jpg"
@@ -11,7 +11,7 @@ const Projects = () => {
     const projects = [
         {
             id:1,
-            src: arrayDestruct
+            src: abode
         },
         {
             id:2,

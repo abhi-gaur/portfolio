@@ -15,21 +15,21 @@ const About = () => {
             
             </div>
 
-            <p className="text-xl mt-20">
-               Lorem ipsum dolor sit amet consectetur adipisicing elit.
-               Veritatis et dolores eos blanditiis?
-               Amet, odit distinctio consectetur tempora laudantium error et illo voluptatem
-               dicta perspiciatis iste quibusdam repudiandae expedita accusamus, deleniti facilis ea.
-               Libero, quidem ipsa sequi nisi quo minus assumenda explicabo pariatur eos numquam officiis nesciunt consequuntur, eum et! 
+            <p className="text-2xl mt-20 text-gray-500 hover:text-gray-200 italic text-justify">
+            I am from gwalior, I belong to nuclear family, I have done my 10 and 12 from S.J.V.S From C.B.S.E BOARD , Gwalior .
+            I have done my UG from PIMG Gwalior and now currently Pursuing Masters from ITM Gwalior In MCA .
+            I have keen Interest in C++ AND MERN STACK . I have done Certain Projects on it as Well 
+            My hobbies are Internet surfing ,playing guitar and I love to travel.
+            That's all about me , thank you  ! 
             </p>
-            <br/>
+            {/* <br/>
             <p className="text-xl">
                Lorem ipsum dolor sit amet consectetur adipisicing elit.
                Veritatis et dolores eos blanditiis?
                Amet, odit distinctio consectetur tempora laudantium error et illo voluptatem
                dicta perspiciatis iste quibusdam repudiandae expedita accusamus, deleniti facilis ea.
                Libero, quidem ipsa sequi nisi quo minus assumenda explicabo pariatur eos numquam officiis nesciunt consequuntur, eum et!   
-            </p>
+            </p> */}
         </div>
     </div>
   )
